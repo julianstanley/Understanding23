@@ -1,8 +1,6 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+This is a webpage was made by Julian Stanley using the [SinglePaged theme](https://github.com/t413/SinglePaged)
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
+the source code for this project can be found on [Julian's Github](https://github.com/julianstanley/Understanding23)
 
