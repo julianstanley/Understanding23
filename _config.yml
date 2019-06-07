@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Understanding 23"
+title:       "Gene Info"
 keywords:    ""
 description: ""
 source_link: "github.com/julianstanley/Understanding23"
