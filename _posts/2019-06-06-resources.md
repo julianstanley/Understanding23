@@ -1,7 +1,7 @@
 ---
 title: Resources
-bg: '#8F4244'
-color: black
+bg: '#DDE6DB'
+color: '#000000'
 fa-icon: external-link-square
 ---
 
