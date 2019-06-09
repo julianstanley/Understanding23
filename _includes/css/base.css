@@ -73,7 +73,7 @@
 	.subheader { color: #777; }
 	
 	/* Changed font size and line height */
-	p {font-size: 28px !important; line-height: 50px !important; margin: 0 0 20px 0; }
+	p {font-size: 21px !important; line-height: 32px !important; margin: 0 0 20px 0; }
 	/* Added a figcaption section */
 	figcaption {font-size: 24px !important; line-height: 24px !important; margin: 14px 0 0 0}
 
